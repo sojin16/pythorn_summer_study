@@ -1,1 +1,1 @@
-# pythorn_summer_study
+# python_summer_study
